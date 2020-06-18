@@ -1,0 +1,19 @@
+@media screen and (max-width: 1000px) {
+  .atas {
+    display: flex;
+    width: 100%;
+    position: relative;
+    bottom: -76px;
+    line-height: 1;
+    height: 50vh;
+    float: left;
+  }
+  .bawah {
+    display: flex;
+    font-size: 10pt;
+    align-items: center;
+    line-height: 1;
+    height: 50vh;
+    width: 100%;
+  }
+}
